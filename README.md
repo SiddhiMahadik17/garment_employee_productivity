@@ -1,5 +1,7 @@
 #Garment Employee Productivity Precidition
+
 Garment Employee Productivity Prediction
+
 Overview
 This project focuses on predicting employee productivity in a garment manufacturing setting using machine learning techniques. By analyzing various features related to the production environment and employee performance, the goal is to develop a model that can accurately forecast productivity levels. This predictive model can be valuable for optimizing workforce management and improving overall efficiency in garment production.
 
